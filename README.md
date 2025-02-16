@@ -20,8 +20,6 @@
 ### - 💬 Ask me about **My journey to be coming a Software Engineer and how I got started!!**
 
 ### - 📫 How to reach me **aaliyanamingle39@gmail.com**
-
-### - 📄 Know about my experiences [Aaliyana-Adoley-Mingle-Resume (2).pdf](https://github.com/user-attachments/files/18815406/Aaliyana-Adoley-Mingle-Resume.2.pdf)
   
 ### - ⚡ Fun fact **Im a career switcher! From health and social care to Tech📲**
 
