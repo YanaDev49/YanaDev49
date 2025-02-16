@@ -9,21 +9,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yanadev49" alt="yanadev49" /></a> </p>
 
-- 🔭 I’m currently working on **A Cryptocurrency Golang API integration Application 🚀🦾**
+### - 🔭 I’m currently working on **A Cryptocurrency Golang API integration Application 🚀🦾**
 
-- 🌱 I’m currently learning **Golang, Python, TypeScrypt and React!**
+### - 🌱 I’m currently learning **Golang, Python, TypeScrypt and React!**
 
-- 👯 I’m looking to collaborate on **Golang and Machine Learning Projects!**
+### - 👯 I’m looking to collaborate on **Golang and Machine Learning Projects!**
 
-- 📝 I regularly write articles on [https://medium.com/@aaliyanamingle39](https://medium.com/@aaliyanamingle39)
+### - 📝 I regularly write articles on [https://medium.com/@aaliyanamingle39](https://medium.com/@aaliyanamingle39)
 
-- 💬 Ask me about **My journey to be coming a Software Engineer and how I got started!!**
+### - 💬 Ask me about **My journey to be coming a Software Engineer and how I got started!!**
 
-- 📫 How to reach me **aaliyanamingle39@gmail.com**
+### - 📫 How to reach me **aaliyanamingle39@gmail.com**
 
-- 📄 Know about my experiences [Aaliyana-Adoley-Mingle-Resume (2).pdf](https://github.com/user-attachments/files/18815406/Aaliyana-Adoley-Mingle-Resume.2.pdf)
+### - 📄 Know about my experiences [Aaliyana-Adoley-Mingle-Resume (2).pdf](https://github.com/user-attachments/files/18815406/Aaliyana-Adoley-Mingle-Resume.2.pdf)
   
-- ⚡ Fun fact **Im a career switcher! From health and social care to Tech📲**
+### - ⚡ Fun fact **Im a career switcher! From health and social care to Tech📲**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
