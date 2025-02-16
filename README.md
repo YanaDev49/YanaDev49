@@ -1,5 +1,6 @@
 
-![github-header-image (1)](https://github.com/user-attachments/assets/fecf6e1d-33a2-4839-9c25-06d9a8e6c05c)
+![github-header-image (3)](https://github.com/user-attachments/assets/a9261121-6d4d-4f0f-ab63-ec04dfdee455)
+
 
 <h1 align="center">Hello Everyone!👋 My Name is Aaliyana 😇</h1>
 <h3 align="center">A Sophisticated Software Engineer💐🚀</h3>
