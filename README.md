@@ -1,4 +1,5 @@
-![Header](./github-header-image.png)
+
+![github-header-image](https://github.com/user-attachments/assets/416fbfee-e4c1-41da-88b2-f3b11d85d917)
 
 <h1 align="center">Hello Everyone!👋 My Name is Aaliyana 😇</h1>
 <h3 align="center">A Sophisticated Software Engineer💐🚀</h3>
