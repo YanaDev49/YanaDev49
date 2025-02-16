@@ -2,7 +2,7 @@
 ![github-header-image (1)](https://github.com/user-attachments/assets/fecf6e1d-33a2-4839-9c25-06d9a8e6c05c)
 
 <h1 align="center">Hello Everyone!👋 My Name is Aaliyana 😇</h1>
-<h3 align="center">A Sophisticated Software Engineer💐🚀</h3>
+# <h3 align="center">A Sophisticated Software Engineer💐🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yanadev49&label=Profile%20views&color=0e75b6&style=flat" alt="yanadev49" /> </p>
 
