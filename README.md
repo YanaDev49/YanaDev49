@@ -20,8 +20,8 @@
 
 - 📫 How to reach me **aaliyanamingle39@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/aaliy/Downloads/Aaliyana%20Adoley%20Mingle%20Resume.docx%20(1).pdf](file:///C:/Users/aaliy/Downloads/Aaliyana%20Adoley%20Mingle%20Resume.docx%20(1).pdf)
-
+- 📄 Know about my experiences [Aaliyana-Adoley-Mingle-Resume (2).pdf](https://github.com/user-attachments/files/18815406/Aaliyana-Adoley-Mingle-Resume.2.pdf)
+  
 - ⚡ Fun fact **Im a career switcher! From health and social care to Tech📲**
 
 <h3 align="left">Connect with me:</h3>
